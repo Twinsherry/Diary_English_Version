@@ -8,7 +8,11 @@
 
 Although I introduced my favourite Cantonese cuisine restaurant to her, but as the saying goes, one water live one people, I meant that it's awful to have hometown-dish out of town, so we had our dinner at a Thai style resaurant. The most [unforgotten] cuisine was a dish of ribs, it was different to chops in Cantonese cuisine. The ribs in the plate were uneven and large, so it was hard to eat gently. The taste was spicy, it was a strange feeling, and the taste would burnt stronger in the following seconds. Well, it was a 'hard cuisine' no matter how I describe it.
 
-Her partner (tentatively using this state to call her)Qihuai would arrived at the railway station at midnight. We went to the hotel she stayed and recharge. Before that Qihuai said she had a cough so we went to the chemist to buy some medicine. 
+Her partner (tentatively using this state to call her)Qihuai would arrived at the railway station at midnight. We went to the hotel she stayed and recharge. Before that Qihuai said she had a cough so we went to the chemist to buy some medicine, although we buy it from takeout platform at last.
+
+<!-- Incidentally, I saw that 'special toy'(with electricity) and experienced it a little bit, it amazed me a lot.  -->
+
+At midnight *Nashiro* and I took a walk from the hotel to the station. The hotel is not so far from the station.
 
 [To be continue...] 
 
