@@ -14,13 +14,13 @@ Tips: Create an **issue** while hoping to help Twinsherry to improve her article
 
 Priority of mark is from top to bottom.
 
-- feat: Tell a new story
-- structure optimization: Use a better article structure
-- style optimization: Use a better style of writting
-- note: add annotation(s)
-- typo fix: Correct spelling mistake(s)
-- grammar correction: Correct grammar mistake(s)
-- anglicized: British usage change(s)
+- **feat**: Tell a new story
+- **structure optimization**: Use a better article structure
+- **style optimization**: Use a better style of writting
+- **note**: add annotation(s)
+- **typo fix**: Correct spelling mistake(s)
+- **grammar correction**: Correct grammar mistake(s)
+- **anglicized**: British usage change(s)
 
 ## Summer 2023 Series
 
